@@ -14,7 +14,6 @@ import DiaryApp from './PrivacyPolicy/DiaryApp.js';
 function App() {
   return (
     <div className="App">
-      <h1> OK</h1>
       <Routes>
         <Route path='/DiaryApp' element={<DiaryApp/>}></Route>
       </Routes>
