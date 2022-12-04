@@ -1,7 +1,7 @@
 import React from "react";
 import "../css/PrivacyPolicy.css"
 
-function DiaryApp() {
+function DictionaryApp() {
     return (
         <div>
             <br/>
@@ -11,11 +11,11 @@ function DiaryApp() {
 
             <p style={{ textAlign: 'left', fontWeight: 'bold', fontSize: '20px', paddingLeft: '20px'}}>1. GIỚI THIỆU</p>
 
-            <p style={{textAlign: 'left' , paddingLeft: '20px'}}>Ứng dụng Diary - Nhật kí là ứng dụng giúp lưu lại những kỉ niệm đẹp của bạn trên điện thoại với những tùy chỉnh giao diện, font chữ bắt mắt</p>
+            <p style={{textAlign: 'left' , paddingLeft: '20px'}}>Ứng dụng ZDictionary là ứng dụng từ điển kết hợp với việc học qua flashcard, trò chơi nhằm tăng hiệu quả học tiếng anh cho người dùng.</p>
         
-            <p style={{ textAlign: 'left', fontWeight: 'bold', fontSize: '20px', paddingLeft: '20px'}}>2. Diary - Nhật kí sẽ thu thập những dữ liệu gì?</p>
+            <p style={{ textAlign: 'left', fontWeight: 'bold', fontSize: '20px', paddingLeft: '20px'}}>2. ZDictionary sẽ thu thập những dữ liệu gì?</p>
 
-            <p style={{textAlign: 'left', paddingLeft: '20px'}}>Ứng dụng sử dụng iCloud, hoàn toàn không thu thập dữ liệu cá nhân người dùng.</p>
+            <p style={{textAlign: 'left', paddingLeft: '20px'}}>Ứng dụng hoàn toàn không thu thập dữ liệu cá nhân người dùng.</p>
 
             <p style={{ textAlign: 'left', fontWeight: 'bold', fontSize: '20px' , paddingLeft: '20px'}}>3. THẮC MẮC, QUAN NGẠI HOẶC KHIẾU NẠI?</p>
 
@@ -27,4 +27,4 @@ function DiaryApp() {
     );
 }
 
-export default DiaryApp;
+export default DictionaryApp;

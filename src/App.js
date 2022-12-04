@@ -9,6 +9,7 @@ import {
 } from 'react-router-dom';
 
 import DiaryApp from './PrivacyPolicy/DiaryApp.js';
+import DictionaryApp from './PrivacyPolicy/DictionaryApp';
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
     <div className="App">
       <Routes>
         <Route path='/DiaryApp' element={<DiaryApp/>}></Route>
+        <Route path='/DictionaryApp' element={<DictionaryApp/>}></Route>
       </Routes>
     </div>
   );
