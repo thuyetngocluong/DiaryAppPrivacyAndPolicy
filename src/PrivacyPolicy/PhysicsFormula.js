@@ -28,4 +28,4 @@ function PhysicsFormulaApp() {
     );
 }
 
-export default DictionaryApp;
+export default PhysicsFormulaApp;
