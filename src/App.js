@@ -10,6 +10,7 @@ import {
 
 import DiaryApp from './PrivacyPolicy/DiaryApp.js';
 import DictionaryApp from './PrivacyPolicy/DictionaryApp';
+import PhysicsFormulaApp from './PrivacyPolicy/PhysicsFormula';
 
 
 function App() {
