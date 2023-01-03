@@ -18,6 +18,7 @@ function App() {
       <Routes>
         <Route path='/DiaryApp' element={<DiaryApp/>}></Route>
         <Route path='/DictionaryApp' element={<DictionaryApp/>}></Route>
+        <Route path='/PhysicsFormulas' element={<PhysicsFormulaApp/>}></Route>
       </Routes>
     </div>
   );
