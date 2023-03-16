@@ -7,7 +7,7 @@ function PhysicsFormulaApp() {
         <div>
             <br/>
             <br/>
-            <span style={{ fontWeight: 'bold', fontSize: '40px' }}>Điều khoản sử dụng</span>
+            <span style={{ fontWeight: 'bold', fontSize: '40px' }}>Chính sách bảo mật</span>
             <br/><br/><br/>
 
             <p style={{ textAlign: 'left', fontWeight: 'bold', fontSize: '20px', paddingLeft: '20px'}}>1. GIỚI THIỆU</p>
